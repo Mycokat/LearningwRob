@@ -1,1 +1,3 @@
-Kat
+# Kat is the main mane
+  **This is how you type something with this tiny 14 inch keyboard...
+  
